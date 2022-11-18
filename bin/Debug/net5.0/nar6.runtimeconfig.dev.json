@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Narcis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Narcis\\.nuget\\packages"
+    ]
+  }
+}

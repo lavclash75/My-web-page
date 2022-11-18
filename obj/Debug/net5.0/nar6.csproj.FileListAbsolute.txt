@@ -1,0 +1,16 @@
+C:\Users\Narcis\Documents\GitHub\nar6\bin\Debug\net5.0\nar6.exe
+C:\Users\Narcis\Documents\GitHub\nar6\bin\Debug\net5.0\nar6.deps.json
+C:\Users\Narcis\Documents\GitHub\nar6\bin\Debug\net5.0\nar6.runtimeconfig.json
+C:\Users\Narcis\Documents\GitHub\nar6\bin\Debug\net5.0\nar6.runtimeconfig.dev.json
+C:\Users\Narcis\Documents\GitHub\nar6\bin\Debug\net5.0\nar6.dll
+C:\Users\Narcis\Documents\GitHub\nar6\bin\Debug\net5.0\ref\nar6.dll
+C:\Users\Narcis\Documents\GitHub\nar6\bin\Debug\net5.0\nar6.pdb
+C:\Users\Narcis\Documents\GitHub\nar6\obj\Debug\net5.0\nar6.csprojAssemblyReference.cache
+C:\Users\Narcis\Documents\GitHub\nar6\obj\Debug\net5.0\nar6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Narcis\Documents\GitHub\nar6\obj\Debug\net5.0\nar6.AssemblyInfoInputs.cache
+C:\Users\Narcis\Documents\GitHub\nar6\obj\Debug\net5.0\nar6.AssemblyInfo.cs
+C:\Users\Narcis\Documents\GitHub\nar6\obj\Debug\net5.0\nar6.csproj.CoreCompileInputs.cache
+C:\Users\Narcis\Documents\GitHub\nar6\obj\Debug\net5.0\nar6.dll
+C:\Users\Narcis\Documents\GitHub\nar6\obj\Debug\net5.0\ref\nar6.dll
+C:\Users\Narcis\Documents\GitHub\nar6\obj\Debug\net5.0\nar6.pdb
+C:\Users\Narcis\Documents\GitHub\nar6\obj\Debug\net5.0\nar6.genruntimeconfig.cache
